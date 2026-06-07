@@ -1,1 +1,1 @@
-# Codigo-De-Las-Clases-En-Python
+Código de las clases escritas en Python.
